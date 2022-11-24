@@ -1,15 +1,11 @@
-let gh=document.getElementById('gh')
-let usd=document.getElementById('usd')
+const block=document.getElementById('block')
 
-let gh1=document.getElementById('gh1')
-let usd1=document.getElementById('usd1')
 
-function change(){
-let ghc=gh.value*0.069
-document.getElementById('usd').value=ghc
+let hello=document.getElementById('hey')
+let torso=document.getElementById('bo')
+let bb=document.getElementById('btn').addEventListener('click',font)
+
+function font(){
+block.style.display='block'
+block.style.padding='50px'
 }
-//
-function change2(){
-    let ghc=usd1.value*14.50
-    document.getElementById('gh1').value=ghc
- }
