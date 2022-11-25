@@ -9,4 +9,4 @@ function font(){
 block.style.display='block'
 block.style.padding='50px'
 }
-console.log(aldlkaL
+console.log(aldlkaL)
